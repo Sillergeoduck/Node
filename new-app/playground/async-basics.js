@@ -1,0 +1,34 @@
+console.log("Starting the app");
+setTimeout(() => {
+    console.log("Callback");
+},2000);
+setTimeout(() => {
+    console.log("Callback with 0 timeout");
+},0);
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
+console.log("ending the app");
